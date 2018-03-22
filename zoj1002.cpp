@@ -1,3 +1,4 @@
+//copied from http://www.cnblogs.com/phinecos/archive/2008/09/18/1293017.html
 #include<iostream>
 using namespace std;
 
